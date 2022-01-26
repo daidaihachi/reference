@@ -1,7 +1,6 @@
 # For programming  
 【プログラミング全般】  
-・[Freeな学習素材](https://github.com/EbookFoundation)  
-  <pre>   </pre>[日本語版](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md)・[英語版](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md)  
+・[Freeな学習素材](https://github.com/EbookFoundation) <pre>  </pre>[日本語版](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-ja.md)・[英語版](https://github.com/EbookFoundation/free-programming-books/blob/main/books/free-programming-books-langs.md)  
 
 
 【Github関連】  
