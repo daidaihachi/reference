@@ -16,6 +16,9 @@
 ・イラスト無料版等‥[vecteezy](https://www.vecteezy.com/)  
 ・素材集‥[canva](https://www.canva.com/ja_jp/)  
   
+【絵文字】
+・絵文字チート‥[](https://www.webfx.com/tools/emoji-cheat-sheet/)
+  
 【HTML CSSをクラウド環境で試せる】  
 ・[DevDock](https://devdocs.io/html/element/heading_elements)  
 ・[Codepen](https://codepen.io/pen/?editors=1000)  
