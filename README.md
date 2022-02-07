@@ -10,8 +10,10 @@
 【カラーデザイン】  
 ・色の配色を決めるページ‥[hue360](http://hue360.herokuapp.com/)  
 
-【アイコン、写真データ等無料】  
+【アイコン、写真データ、イラスト等無料】  
 ・フリーアイコン‥[ICONS8](https://icons8.jp/)  
+・アイコン作成‥[appicon](https://appicon.co/)  
+・イラスト無料版等‥[vecteezy](https://www.vecteezy.com/)  
 
 
 
