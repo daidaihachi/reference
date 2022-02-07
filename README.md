@@ -23,7 +23,8 @@
 ・[DevDock](https://devdocs.io/html/element/heading_elements)  
 ・[Codepen](https://codepen.io/pen/?editors=1000)  
 
-
+【様々な言語を試せる】  
+・[多様な言語を試せる](https://www.w3schools.com/html/html_headings.asp)  
 
 
 
