@@ -14,6 +14,7 @@
 ・フリーアイコン‥[ICONS8](https://icons8.jp/)  
 ・アイコン作成‥[appicon](https://appicon.co/)  
 ・イラスト無料版等‥[vecteezy](https://www.vecteezy.com/)  
+・素材集‥[canva](https://www.canva.com/ja_jp/)  
 
 
 
