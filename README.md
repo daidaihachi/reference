@@ -17,7 +17,7 @@
 ・素材集‥[canva](https://www.canva.com/ja_jp/)  
   
 【絵文字】
-・絵文字チート‥[](https://www.webfx.com/tools/emoji-cheat-sheet/)
+・絵文字チート‥[emoji cheat](https://www.webfx.com/tools/emoji-cheat-sheet/)
   
 【HTML CSSをクラウド環境で試せる】  
 ・[DevDock](https://devdocs.io/html/element/heading_elements)  
