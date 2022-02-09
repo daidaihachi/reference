@@ -11,6 +11,7 @@
 ・色の適用の入門編‥[HTML-CSS色適用入門](https://developer.mozilla.org/ja/docs/Web/HTML/Applying_color)  
 ・[色選択ツール](https://developer.mozilla.org/ja/docs/Web/CSS/CSS_Colors/Color_picker_tool)   
 ・色の配色を決めるページ‥[hue360](http://hue360.herokuapp.com/)  
+・[RGBから色生成ツール](https://www.w3schools.com/colors/colors_rgb.asp)  
 
 【アイコン、写真データ、イラスト等無料】  
 ・フリーアイコン‥[ICONS8](https://icons8.jp/)  
