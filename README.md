@@ -29,7 +29,7 @@
 【様々な言語を試せる】  
 ・[多様な言語を試せる](https://www.w3schools.com/html/html_headings.asp)  
 
-【Python】
+【Python】  
 ・メルマガ[Python-Weekl;y](https://www.pythonweekly.com/)  
 
 
