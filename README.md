@@ -29,6 +29,10 @@
 【様々な言語を試せる】  
 ・[多様な言語を試せる](https://www.w3schools.com/html/html_headings.asp)  
 
+【Python】
+・メルマガ[Python-Weekl;y](https://www.pythonweekly.com/)  
+
+
 【昔のホームページを見てみたい方へ】  
 ・[WayBackページ](https://web.archive.org/web/19961015000000*/yahoo.com)  
 
