@@ -22,7 +22,7 @@
 【ボタン】  
 ・ボタン用コードを簡単に作れるサイト‥[CSS Button Generator](https://css3buttongenerator.com/)  
 
-【絵文字】
+【絵文字】  
 ・絵文字チート‥[emoji cheat](https://www.webfx.com/tools/emoji-cheat-sheet/)
   
 【HTML CSSをクラウド環境で試せる】  
