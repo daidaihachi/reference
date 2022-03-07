@@ -34,6 +34,7 @@
 
 【Python】  
 ・メルマガ[Python-Weekl;y](https://www.pythonweekly.com/)  
+・ビューティフルスープ[BeautifulSoup](https://www.crummy.com/software/BeautifulSoup/bs4/doc/)‥pythonからwebｽｸﾚｲﾋﾟﾝｸﾞ等操作できる便利なモジュール  
 
 
 【昔のホームページを見てみたい方へ】  
